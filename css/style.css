@@ -1,0 +1,44 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+.carousel-item img {
+  width: 400px;
+}
+.bg-black{
+  background-color:black;
+  color: white;
+  padding: 10px 20px;
+}
+.card img {
+  width: 70%;
+}
+.card{
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+  text-align: center;
+  margin: auto;
+}
+.card{
+  padding: 20px 30px;
+}
+.seeAll{
+  float: right;
+  color:goldenrod;
+}
+.seeAll1{
+  float: left;
+}
+.clean-both{
+  clear: both;
+}
+section{
+  margin-top: 100px;
+}
+.cat h1{
+  border-bottom-width:5px;
+  border-bottom-style: solid;
+ 
+  border-bottom-color: coral;
+  padding-bottom: 5px;
+}
